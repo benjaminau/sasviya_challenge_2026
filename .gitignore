@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# restricts redistribution, contact host or visit website to obtain dataset
+data/
